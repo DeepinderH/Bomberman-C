@@ -1,6 +1,6 @@
 # Bomberman-C
 
-This is an oversimplified version of the retro bomberman game which I created for my CPSC 355 class.
+This is an oversimplified version of the retro bomberman game which I created.
 I have added the project specification pdf in the repository.
 
 Instructions to compile & run the code:
